@@ -6,7 +6,7 @@ const NasaPhoto = (props) => {
             <h3>{props.photo.title}</h3>
             <p>{props.photo.date}</p>
             <img src={props.photo.hdurl} alt="Nasa Space" />
-            <p>{props.photo.explanation}</p>
+            <p className='description-photo'>{props.photo.explanation}</p>
         </div>
     )
 }
