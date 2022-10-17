@@ -2,10 +2,10 @@
   text-align: center;
 }
 
-.App-logo {
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
+} */
 
 /* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -28,20 +28,20 @@
   color: #61dafb;
 }
 
-.nasa-photo-wrapper {
+/* .nasa-photo-wrapper {
   display: flex;
   flex-direction: column;
   align-items: center;
-}
+} */
 
-.description-photo {
+/* .description-photo {
   max-width: 50%;
-}
+} */
 
-img {
+/* img {
   max-width: 70%;
   object-fit: cover;
-}
+} */
 
 /* @keyframes App-logo-spin {
   from {
